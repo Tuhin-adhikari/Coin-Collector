@@ -17,6 +17,11 @@ A simple coin collecting game built using **Pygame**, where you control a robot 
      ```bash
      python game.py
 
+  3. Clone the repository:
+     ```bash
+     git clone https://github.com/Tuhin-adhikari/Coin-Collector.git
+
+
 ## Requirements
 - Python 3.x
 - Pygame
