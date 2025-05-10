@@ -18,5 +18,5 @@ A simple coin collecting game built using **Pygame**, where you control a robot 
      python game.py
 
 ## Requirements
-1. Python 3.x
-2. Pygame
+- Python 3.x
+- Pygame
