@@ -3,7 +3,7 @@ A simple coin collecting game built using **Pygame**, where you control a robot 
 
 ## Gameplay
 
-- Move the robot using the **left** and **right** arrow keys**.
+- Move the robot using the **left** and **right** arrow **keys**.
 - Collect falling **coins** to increase your score.
 - Avoid falling **monsters** - touching one ends the game.
 - To increase the difficulty , the skin colour of the monster matches the background screen, only eyes are visible.
